@@ -1,0 +1,14 @@
+{
+  "name": "test-app",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server"
+  },
+  "author": "Austin Kelleher",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "fastify": "^4.17.0"
+  }
+}
